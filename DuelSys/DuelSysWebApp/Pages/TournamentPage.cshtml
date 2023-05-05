@@ -1,0 +1,42 @@
+﻿@page "{id}"
+@model DuelSysWebApp.Pages.TournamentPageModel
+@{
+    ViewData["Title"] = "Tournament page";
+}
+
+<div class="text-center">
+      <tr>
+                
+                <td class="col"> Type:"@Model.tournament.SportType" |</td>
+                 <td class="col"> Minimum Players: @Model.tournament.MinPlayers |</td>
+                  <td class="col"> Max Players: @Model.tournament.MaxPlayers |</td>
+                   <td class="col"> Current Players: @Model.participatinglist.Count|</td>
+                    <td class="col">Start: @Model.tournament.StartTime |</td>
+                     <td class="col">Ends: @Model.tournament.EndGame |</td>
+                      <td class="col">Location: @Model.tournament.Location |</td>
+                       <td class="col">Description: @Model.tournament.Description |</td>
+          <td class="col"> 
+              
+           
+          
+            
+                @if(Model.isPlayerInTour == true)
+                {
+                      <form class="" method="post" asp-page-handler="Delete">
+             <input type="hidden" asp-for="@Model.tournament.id" />
+                  <button class="btn-add">Leave tournament</button>
+                    </form>
+                }
+                else
+                {
+                       <form class="" method="post">
+             <input type="hidden" asp-for="@Model.tournament.id" />
+                  <button class="btn-add">Apply for tournament</button>
+                    </form>
+                }
+            
+          </td>
+            </tr>
+     <div>@ViewData["Message"]</div>
+
+</div>

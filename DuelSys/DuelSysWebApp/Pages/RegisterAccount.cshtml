@@ -1,0 +1,40 @@
+﻿@page
+@model DuelSysWeb.Pages.RegisterAccountModel
+@{
+     ViewBag.Title = "Users";
+    ViewData["Title"] = "Register";
+}
+
+<div class="text-center">
+    <form class="" action="" method="post">
+    <div class=""><h1>Sign in</h1></div>
+    <div class="">
+        <div class="">
+            <input placeholder="Email" asp-for="user.Email" />
+        </div>
+         <div class="">
+            <input placeholder="Password" asp-for="user.Password" />
+        </div>
+        <div class="">
+            <input placeholder="Confirm password" asp-for="user.Password" />
+        </div>
+        <div class="">
+            <input placeholder="Full Name" asp-for="user.FullName" />
+        </div>
+    </div>
+    <div class="flexitem">
+        <input type="submit" name="" value="Sign in" />
+    </div>
+</form>
+<div class="MessageBox">
+    <br /><br /><br />
+    <p> @ViewData["Message"] </p>
+    <span asp-validation-for="user.Password"></span>
+    <br />
+    <span asp-validation-for="user.Email"></span>
+    <br />
+    <span asp-validation-for="user.FullName"></span>
+    <br />
+  
+</div>
+</div>

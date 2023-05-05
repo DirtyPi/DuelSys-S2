@@ -1,0 +1,5 @@
+C:\HRISTO TANCHEV\Fontaka\Sem2 T3\synthesisassignment-hristotanchev\DuelSys\ClassLibrary\obj\Debug\net5.0\ClassLibrary.csproj.AssemblyReference.cache
+C:\HRISTO TANCHEV\Fontaka\Sem2 T3\synthesisassignment-hristotanchev\DuelSys\ClassLibrary\obj\Debug\net5.0\ClassLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\HRISTO TANCHEV\Fontaka\Sem2 T3\synthesisassignment-hristotanchev\DuelSys\ClassLibrary\obj\Debug\net5.0\ClassLibrary.AssemblyInfoInputs.cache
+C:\HRISTO TANCHEV\Fontaka\Sem2 T3\synthesisassignment-hristotanchev\DuelSys\ClassLibrary\obj\Debug\net5.0\ClassLibrary.AssemblyInfo.cs
+C:\HRISTO TANCHEV\Fontaka\Sem2 T3\synthesisassignment-hristotanchev\DuelSys\ClassLibrary\obj\Debug\net5.0\ClassLibrary.csproj.CoreCompileInputs.cache

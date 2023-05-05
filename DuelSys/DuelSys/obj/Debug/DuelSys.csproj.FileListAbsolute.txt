@@ -1,0 +1,10 @@
+C:\HRISTO TANCHEV\Fontaka\Sem2 T3\synthesisassignment-hristotanchev\DuelSys\DuelSys\bin\Debug\DuelSys.exe.config
+C:\HRISTO TANCHEV\Fontaka\Sem2 T3\synthesisassignment-hristotanchev\DuelSys\DuelSys\bin\Debug\DuelSys.exe
+C:\HRISTO TANCHEV\Fontaka\Sem2 T3\synthesisassignment-hristotanchev\DuelSys\DuelSys\bin\Debug\DuelSys.pdb
+C:\HRISTO TANCHEV\Fontaka\Sem2 T3\synthesisassignment-hristotanchev\DuelSys\DuelSys\obj\Debug\DuelSys.csproj.AssemblyReference.cache
+C:\HRISTO TANCHEV\Fontaka\Sem2 T3\synthesisassignment-hristotanchev\DuelSys\DuelSys\obj\Debug\DuelSys.csproj.SuggestedBindingRedirects.cache
+C:\HRISTO TANCHEV\Fontaka\Sem2 T3\synthesisassignment-hristotanchev\DuelSys\DuelSys\obj\Debug\DuelSys.Properties.Resources.resources
+C:\HRISTO TANCHEV\Fontaka\Sem2 T3\synthesisassignment-hristotanchev\DuelSys\DuelSys\obj\Debug\DuelSys.csproj.GenerateResource.cache
+C:\HRISTO TANCHEV\Fontaka\Sem2 T3\synthesisassignment-hristotanchev\DuelSys\DuelSys\obj\Debug\DuelSys.csproj.CoreCompileInputs.cache
+C:\HRISTO TANCHEV\Fontaka\Sem2 T3\synthesisassignment-hristotanchev\DuelSys\DuelSys\obj\Debug\DuelSys.exe
+C:\HRISTO TANCHEV\Fontaka\Sem2 T3\synthesisassignment-hristotanchev\DuelSys\DuelSys\obj\Debug\DuelSys.pdb

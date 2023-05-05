@@ -1,0 +1,23 @@
+﻿@page
+@model DuelSysWebApp.Pages.PlayersModel
+@{
+    ViewData["Title"] = "Player list Page";
+}
+
+
+@foreach(var user in Model.users)
+{
+    if(user.Id == Model.user.Id)
+    {
+          <div class="text-center"> 
+      <h4>Logged in as: </h4> <a asp-page="LogedInPlayerProfile" asp-route-ID="@Model.user.Id"><h5>@Html.DisplayFor(User => user.FullName)</h5></a>
+        </div>
+    }
+    else
+    {
+         <div class="text-center"> 
+        <a asp-page="profile" asp-route-ID="@user.Id"><h2>@Html.DisplayFor(User => user.FullName)</h2></a>
+    </div>
+    }
+   
+}

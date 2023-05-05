@@ -1,0 +1,43 @@
+﻿@page "{id}"
+@model DuelSysWebApp.Pages.LogedInPlayerProfileModel
+@{
+}
+
+
+<div class="text-center">
+    <h1>@Model.user.FullName</h1>
+</div>
+<div class="text-center">
+    <h1>@Model.user.Email</h1>
+</div>
+@for (int i = 0; i <= Model.participatings.Count() - 1; i++)
+{
+     var participating = Model.participatings[i];
+     <tr>
+          <td>   <div class=""> Sport type: <h1>@Html.DisplayFor(Par => participating.tournament.SportType)</h1></div></td>
+           <td>    <div class=""> Location: <h1>@Html.DisplayFor(Par => participating.tournament.Location)</h1></div></td>
+           <td>    <div class=""> Start time: <h1>@Html.DisplayFor(Par => participating.tournament.StartTime)</h1></div></td>
+             <td>    <div class=""> Wins: <h1>@Html.DisplayFor(Par => participating.Won)</h1></div></td>
+               <td>    <div class="">  Lost:<h1>@Html.DisplayFor(Par => participating.Los)</h1></div></td>
+                 <td>   <div class=""> Rank: <h1>@Html.DisplayFor(Par => participating.Rank)</h1></div></td>
+     </tr>
+  
+    <div class="">
+        <h2>Matches:</h2>
+        @foreach(var m in Model.matches)
+        {
+            if(participating.Rank !=0)
+            {
+                <div class="text-center">Match ID:  <h4>@Html.DisplayFor(M => m.ID)</h4></div>
+                <div class="text-center">  <h4>@Html.DisplayFor(M => m.Player1.FullName)</h4> |<h4>@Html.DisplayFor(M => m.ResultPlayer1)</h4>| vs.|<h4>@Html.DisplayFor(M => m.ResultPlayer2)</h4>| <h4>@Html.DisplayFor(M => m.Player2.FullName)</h4></div>
+            }
+           
+
+           
+                 
+        }
+    </div>
+       
+
+
+}

@@ -1,0 +1,23 @@
+﻿@page
+@model DuelSysWeb.Pages.LogInModel
+@{
+     ViewData["Title"] = "Login";
+}
+@section scripts{
+    <partial name="_ValidationScriptsPartial" />
+}
+
+<div class="text-center">
+    <form class="" method="post">
+    <h1>Log in</h1>
+   
+    <input  placeholder="Email" type="text" asp-for="Email" />
+    
+    <input placeholder="Password" type="password" asp-for="Password"  />
+    <input type="submit" name="" value="Login" />
+   
+    <div>@ViewData["Message"]</div>
+     <span asp-validation-for="Email"></span>
+     <span asp-validation-for="Password"></span>
+</form>
+</div>

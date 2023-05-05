@@ -1,0 +1,62 @@
+using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Threading.Tasks;
+using MySql.Data.MySqlClient;
+using System.Data;
+using ClassLibrary;
+
+namespace ClassLibrary
+{
+	public class DataAccess
+	{
+        protected MySqlConnection connection;
+        protected MySqlCommand command;
+        protected MySqlDataReader dataReader;
+        protected string query = "";
+
+
+
+
+        public DataAccess()
+        {
+            string database = "Server=studmysql01.fhict.local;Uid=dbi463896;Database=dbi463896;Pwd=VuiManqk; SSL Mode=None;";
+
+            this.connection = new MySqlConnection(database);
+        }
+
+
+        protected void AddWithValue(string parameterName, object value)
+        {
+            this.command.Parameters.AddWithValue(parameterName, value);
+        }
+
+        protected void NonQueryEx()
+        {
+            this.command.ExecuteNonQuery();
+        }
+
+        public void Close()
+        {
+            this.connection.Close();
+        }
+        protected bool ConnOpen()
+        {
+            try
+            {
+                this.connection.Open();
+                return true;
+            }
+            catch (MySqlException)
+            {
+
+                return false;
+            }
+        }
+
+        protected void SqlQuery(string queryText)
+        {
+            this.command = new MySqlCommand(queryText, this.connection);
+        }
+    }
+}

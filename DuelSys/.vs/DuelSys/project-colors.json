@@ -1,0 +1,66 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "f830441a-9d1f-4968-8a2f-e7eb315c2ae5": {
+      "ProjectGuid": "f830441a-9d1f-4968-8a2f-e7eb315c2ae5",
+      "DisplayName": "DuelSys",
+      "ColorIndex": 0
+    },
+    "dd1108bd-e0dc-4ad6-8b96-26ad9f99f1e8": {
+      "ProjectGuid": "dd1108bd-e0dc-4ad6-8b96-26ad9f99f1e8",
+      "DisplayName": "ClassLibrary",
+      "ColorIndex": 1
+    },
+    "bd012419-7829-499f-9c0d-14104b521e21": {
+      "ProjectGuid": "bd012419-7829-499f-9c0d-14104b521e21",
+      "DisplayName": "DuelSysWeb",
+      "ColorIndex": 2
+    },
+    "f51344a0-a811-4e80-b7f1-8e7b047f7334": {
+      "ProjectGuid": "f51344a0-a811-4e80-b7f1-8e7b047f7334",
+      "DisplayName": "DuelSysForms",
+      "ColorIndex": 3
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Miscellaneous Files",
+      "ColorIndex": -1
+    },
+    "3cbcec39-d25f-4487-ab30-6f34118f742c": {
+      "ProjectGuid": "3cbcec39-d25f-4487-ab30-6f34118f742c",
+      "DisplayName": "DuelSysWebApp",
+      "ColorIndex": 4
+    },
+    "2b449349-2991-497f-a5e0-ce032d86ca99": {
+      "ProjectGuid": "2b449349-2991-497f-a5e0-ce032d86ca99",
+      "DisplayName": "ClassLibrary",
+      "ColorIndex": 5
+    },
+    "012ce919-e1a9-4cc6-99f3-94c6da44e00f": {
+      "ProjectGuid": "012ce919-e1a9-4cc6-99f3-94c6da44e00f",
+      "DisplayName": "ClassLibrary1",
+      "ColorIndex": 6
+    },
+    "bb861b34-0351-440e-b9ab-b2646d74abf7": {
+      "ProjectGuid": "bb861b34-0351-440e-b9ab-b2646d74abf7",
+      "DisplayName": "duelsys2.0",
+      "ColorIndex": 7
+    },
+    "1167a072-b54c-41be-909c-45252fa51ab0": {
+      "ProjectGuid": "1167a072-b54c-41be-909c-45252fa51ab0",
+      "DisplayName": "WinFormsApp1",
+      "ColorIndex": 8
+    },
+    "398fc17d-633d-4971-99ac-8777beda63bd": {
+      "ProjectGuid": "398fc17d-633d-4971-99ac-8777beda63bd",
+      "DisplayName": "UnitTestProject1",
+      "ColorIndex": 9
+    },
+    "2ccbbc42-1252-4e15-a16f-e0f802977fb7": {
+      "ProjectGuid": "2ccbbc42-1252-4e15-a16f-e0f802977fb7",
+      "DisplayName": "ClassLibTest",
+      "ColorIndex": 10
+    }
+  },
+  "NextColorIndex": 11
+}

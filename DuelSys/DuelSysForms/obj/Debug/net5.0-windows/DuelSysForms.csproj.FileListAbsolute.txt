@@ -1,0 +1,7 @@
+C:\HRISTO TANCHEV\Fontaka\Sem2 T3\synthesisassignment-hristotanchev\DuelSys\DuelSysForms\obj\Debug\net5.0-windows\DuelSysForms.csproj.AssemblyReference.cache
+C:\HRISTO TANCHEV\Fontaka\Sem2 T3\synthesisassignment-hristotanchev\DuelSys\DuelSysForms\obj\Debug\net5.0-windows\DuelSysForms.Form1.resources
+C:\HRISTO TANCHEV\Fontaka\Sem2 T3\synthesisassignment-hristotanchev\DuelSys\DuelSysForms\obj\Debug\net5.0-windows\DuelSysForms.csproj.GenerateResource.cache
+C:\HRISTO TANCHEV\Fontaka\Sem2 T3\synthesisassignment-hristotanchev\DuelSys\DuelSysForms\obj\Debug\net5.0-windows\DuelSysForms.GeneratedMSBuildEditorConfig.editorconfig
+C:\HRISTO TANCHEV\Fontaka\Sem2 T3\synthesisassignment-hristotanchev\DuelSys\DuelSysForms\obj\Debug\net5.0-windows\DuelSysForms.AssemblyInfoInputs.cache
+C:\HRISTO TANCHEV\Fontaka\Sem2 T3\synthesisassignment-hristotanchev\DuelSys\DuelSysForms\obj\Debug\net5.0-windows\DuelSysForms.AssemblyInfo.cs
+C:\HRISTO TANCHEV\Fontaka\Sem2 T3\synthesisassignment-hristotanchev\DuelSys\DuelSysForms\obj\Debug\net5.0-windows\DuelSysForms.csproj.CoreCompileInputs.cache

@@ -1,0 +1,8 @@
+C:\HRISTO TANCHEV\Fontaka\Sem2 T3\synthesisassignment-hristotanchev\DuelSys\DuelSysWeb\obj\Debug\net5.0\DuelSysWeb.csproj.AssemblyReference.cache
+C:\HRISTO TANCHEV\Fontaka\Sem2 T3\synthesisassignment-hristotanchev\DuelSys\DuelSysWeb\obj\Debug\net5.0\DuelSysWeb.GeneratedMSBuildEditorConfig.editorconfig
+C:\HRISTO TANCHEV\Fontaka\Sem2 T3\synthesisassignment-hristotanchev\DuelSys\DuelSysWeb\obj\Debug\net5.0\DuelSysWeb.AssemblyInfoInputs.cache
+C:\HRISTO TANCHEV\Fontaka\Sem2 T3\synthesisassignment-hristotanchev\DuelSys\DuelSysWeb\obj\Debug\net5.0\DuelSysWeb.AssemblyInfo.cs
+C:\HRISTO TANCHEV\Fontaka\Sem2 T3\synthesisassignment-hristotanchev\DuelSys\DuelSysWeb\obj\Debug\net5.0\DuelSysWeb.csproj.CoreCompileInputs.cache
+C:\HRISTO TANCHEV\Fontaka\Sem2 T3\synthesisassignment-hristotanchev\DuelSys\DuelSysWeb\obj\Debug\net5.0\DuelSysWeb.MvcApplicationPartsAssemblyInfo.cache
+C:\HRISTO TANCHEV\Fontaka\Sem2 T3\synthesisassignment-hristotanchev\DuelSys\DuelSysWeb\obj\Debug\net5.0\DuelSysWeb.RazorAssemblyInfo.cache
+C:\HRISTO TANCHEV\Fontaka\Sem2 T3\synthesisassignment-hristotanchev\DuelSys\DuelSysWeb\obj\Debug\net5.0\DuelSysWeb.RazorAssemblyInfo.cs
